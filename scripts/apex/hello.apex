@@ -6,5 +6,7 @@
 //     SFDX: Execute Anonymous Apex with Editor Contents
 
 string name = 'Kizito';
+String SisName = 'Fetee';
 System.debug('Hello World!');
-System.debug('My name is always ' + name);
+System.debug('My name and my Sister name are ' + name 'and '+sisname+'.');
+String sentence = 'I am '+ name + ' and my sister is '+ sisname+'.';');
